@@ -1,0 +1,84 @@
+.banner 
+{
+    background-image:url('../../../assets/img/bannerimage.jpg');
+    height: 600px;
+    background-position: center top;
+    background-size: cover;
+}
+.content
+{
+    top: 20%;
+    left: 30%;
+    position: absolute;
+}
+.content h1 
+{
+    color: #ffa;
+    font-size: 80px;
+    font-weight: bold;
+}
+.content a
+{
+    text-decoration: none;
+    background-color: #ffa;
+    color: var(--primary-color);
+    padding: 15px 20px;
+    border-radius: 5px;
+}
+.content a:hover
+{
+    background-color: var(--primary-color);
+    color: #ffa;
+}
+.heading 
+{
+    color: var(--primary-color); 
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline;
+}
+.stepBox
+{
+    background-color: #000;
+    padding: 20px 20px;
+    border-radius: 5px;
+    text-align: center;
+}
+.stepBox h1
+{
+    font-size: 50px;
+    font-weight: bold;
+    color: var(--primary-color);
+
+}
+.stepBox p
+{
+    font-size: 20px;
+    font-style: italic;
+    color: #fff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
